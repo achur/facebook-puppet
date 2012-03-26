@@ -3,7 +3,7 @@
 #### An open-source project to manipulate the facebook coefficients
 
 
-__Background__: Facebook stores user data in what they call the Facebook Coefficients.  They use complicated algorithms (which pages you view, who posts on your wall, who are you tagged with in photos, etc.) to determine who you will likely search for, who are your closest friends, and who should appear in your news feed.  This can be great, but also can violate your privacy.
+__Background__: Facebook stores user data in what they call the Facebook Coefficients.  They use complicated algorithms (which pages you view, who posts on your wall, who are you tagged with in photos, etc.) to determine who you will likely search for, who are your closest friends, and who should appear in your news feed.  Check out [the article](http://techcrunch.com/2011/08/17/in-zuck-confidimus/) about [jkeesh](https://github.com/jkeesh)'s bookmarklet.
 
 __facebook-puppet__: 
  Enter facebook-puppet, which lets you manually select the people you want to propel to the top of your facebook coefficients.  To operate, install _facebook-puppet_ as a chrome-extension, click the facebook icon that appears and type in a list of the usernames of the friends you want to motivate.  Then click start and let it run.  For the average person, a run of several hours will overrun any facebook coefficient data.
